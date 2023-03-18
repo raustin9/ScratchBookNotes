@@ -1,10 +1,10 @@
 # reactnotesapp
 
 ## To start up on your own dev server after cloning
+### You may have to install Vite
 1. cd reactnotes app
 2. npm install
 3. npm run dev
-## You may have to install Vite
 
 This project allows users to create notes that will be stored on their local storage. 
 Users can add markdown to their notes, and it will display accordingly. 
